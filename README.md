@@ -31,7 +31,7 @@ This project enables users with limited motor abilities to communicate by blinki
 I wanted to explore assistive communication technologies while combining my experience with computer vision and Verilog. This project also helped me improve my understanding of serial communication and real-time input processing on FPGAs.
 
 ## 📷 Demo  
-*Coming soon* – planning to upload a short demo GIF or video walkthrough.
+![System Diagram](https://media.licdn.com/dms/image/v2/D4E22AQFVxKLIldBgHA/feedshare-shrink_1280/feedshare-shrink_1280/0/1732558191210?e=1749686400&v=beta&t=w9maCl9zVgzKLOEMDCGkXrLASfHapVG6tgq5s6P4PPc)
 
 ## 🛠️ How to Run  
 Since this was created as part of a course project, I’m unable to publicly share the source code or Verilog files.
